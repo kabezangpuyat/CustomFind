@@ -1,0 +1,14 @@
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.exe
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.deps.json
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.runtimeconfig.json
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.runtimeconfig.dev.json
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.dll
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\bin\Debug\netcoreapp3.1\FulCrumExam.pdb
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.csproj.AssemblyReference.cache
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.AssemblyInfoInputs.cache
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.AssemblyInfo.cs
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.csproj.CoreCompileInputs.cache
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.dll
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.pdb
+C:\Users\McNiel Viray\source\repos\CustomFind Solution\FulCrumExam\obj\Debug\netcoreapp3.1\FulCrumExam.genruntimeconfig.cache
